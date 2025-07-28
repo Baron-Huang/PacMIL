@@ -2,6 +2,8 @@
 
 Mingrui Ma, Furong Luo, Binlin Ma, Shuxian Liu, Xiaoyi Lv*, Pan Huang*, Member, MICCAI
 
+*Corresponding author
+
 Our manuscript is in the peer review，and we will completely share the dataset and code after the peer review.
 
 # Introduction
