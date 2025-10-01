@@ -1,3 +1,7 @@
+#### Author: Dr. Pan Huang
+#### Email: mrhuangpan@163.com or pan.huang@polyu.edu.hk
+#### Department: PolyU, HK
+
 import os
 import natsort
 import numpy as np
@@ -56,5 +60,6 @@ if __name__ == '__main__':
     for i, j in enumerate(img_name_list):
         small_token_bags_visul(bags_relate = token_bags_rel[str(i+1)], img_name = j,
                              read_path= read_path, save_path= save_path)
+
 
 
