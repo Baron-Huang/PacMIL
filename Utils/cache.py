@@ -1,3 +1,7 @@
+#### Author: Dr. Pan Huang
+#### Email: mrhuangpan@163.com or pan.huang@polyu.edu.hk
+#### Department: PolyU, HK
+
 import torch
 from sklearn.metrics import accuracy_score
 import numpy as np
