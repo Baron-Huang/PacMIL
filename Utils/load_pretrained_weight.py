@@ -1,8 +1,6 @@
-############################# fit_functions ##############################
-#### Author: Dr.Pan Huang
-#### Email: panhuang@cqu.edu.cn
-#### Department: COE, Chongqing University
-#### Attempt: fitting functions for ViT models
+#### Author: Dr. Pan Huang
+#### Email: mrhuangpan@163.com or pan.huang@polyu.edu.hk
+#### Department: PolyU, HK
 
 ########################## API Section #########################
 import torch
@@ -103,4 +101,5 @@ def load_swint_pretrained(state_dict = None, swinT_base = None):
             torch.nn.init.constant_(swinT_base.head.weight, 0.)
             del state_dict['head.weight']
             del state_dict['head.bias']
+
     return state_dict
