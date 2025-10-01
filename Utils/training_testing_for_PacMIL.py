@@ -1,8 +1,6 @@
-############################# fit_functions ##############################
-#### Author: Dr.Pan Huang
-#### Email: panhuang@cqu.edu.cn
-#### Department: COE, Chongqing University
-#### Attempt: fitting functions for DHM_MIL models
+#### Author: Dr. Pan Huang
+#### Email: mrhuangpan@163.com or pan.huang@polyu.edu.hk
+#### Department: PolyU, HK
 
 ########################## API Section #########################
 import torch
@@ -753,6 +751,7 @@ if __name__ == '__main__':
             change_log += 1
         lr = (max_lr / (10 ** (change_log - 1))) - (k - (change_log - 1) * 10) * (max_lr / (10 ** change_log))
         print(lr)
+
 
 
 
