@@ -1,3 +1,7 @@
+#### Author: Dr. Pan Huang
+#### Email: mrhuangpan@163.com or pan.huang@polyu.edu.hk
+#### Department: PolyU, HK
+
 import  shutil
 import numpy as np
 import os
@@ -11,5 +15,6 @@ if __name__ == '__main__':
     for i in new_read_imgs_list:
         shutil.copy(read_path + r'\\' + i, save_path + r'\\' + i)
     print()
+
 
 
