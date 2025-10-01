@@ -5,7 +5,7 @@ Mingrui Ma, Furong Luo, Binlin Ma, Shuxian Liu, Xiaoyi Lv, Pan Huang*
 
 ## :fire: News
 
-- [2025/04/25] Our manuscript was currently Accept with Minor Revision in _Medical Image Analysis (IF 11.2)_.
+- [2025/09/30] Our manuscript was currently Accept with Minor Revision in _Medical Image Analysis (IF 11.2)_.
 
 
 
