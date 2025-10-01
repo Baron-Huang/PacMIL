@@ -1,7 +1,7 @@
 ############################# Creating Multiple instance learing datasets ##############################
-#### Author: Dr.Pan Huang
-#### Email: panhuang@cqu.edu.cn
-#### Department: COE, Chongqing University
+#### Author: Dr. Pan Huang
+#### Email: mrhuangpan@163.com or pan.huang@polyu.edu.hk
+#### Department: PolyU, HK
 #### Attempt: creating & reconstructing MIL file path and datasets (including instances and bags).
 import cv2
 ########################## API Section #########################
@@ -146,6 +146,7 @@ if __name__ == '__main__':
 
     #rec_obj = Reconst_OrgIMG_Datasets(read_path = read_path, save_path = save_path, reconst_w_len = 31)
     #rec_obj.single_IMG_mode()
+
 
 
 
