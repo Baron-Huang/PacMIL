@@ -1,11 +1,7 @@
-'''
-###Funcition:ablation_eperiments of manuscript:'Transformer-CNN Neural Network of Depth Domain
-    Adaptive Interaction for Tumor Visually Interpretable Grading of Laryngeal Cancer
-    IHC Histopathology Multi-Scale Images'.
 #### Author: Dr. Pan Huang
 #### Email: mrhuangpan@163.com or pan.huang@polyu.edu.hk
 #### Department: PolyU, HK
-'''
+
 import torch
 import numpy as np
 from torch import nn
