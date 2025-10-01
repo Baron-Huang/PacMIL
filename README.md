@@ -2,7 +2,7 @@
 
 ## :fire: News
 
-- [2025/04/25] Our manuscript was currently Under Review  _IEEE Journal of Biomedical and Health Informatics_.
+- [2025/04/25] Our manuscript was currently Accept with Minor Revision in _Medical Image Analysis (IF 11.2)_.
 
 
 
