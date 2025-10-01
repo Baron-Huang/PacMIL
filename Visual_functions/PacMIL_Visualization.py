@@ -1,4 +1,6 @@
-
+#### Author: Dr. Pan Huang
+#### Email: mrhuangpan@163.com or pan.huang@polyu.edu.hk
+#### Department: PolyU, HK
 
 def pacmil_visual(bags_weights_path=None,
                 img_path=r'E:\StbiViT\Datasets\Cervix\Cervix_Org\Test\I\253.jpg',
@@ -52,4 +54,5 @@ def pacmil_visual(bags_weights_path=None,
     plt.xticks([])
     plt.yticks([])
     plt.savefig(save_path)
+
     #plt.show()
