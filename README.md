@@ -36,7 +36,7 @@ To get started with NCFM, follow the installation instructions below.
 1.  Clone the repo
 
 ```sh
-git clone https://github.com/Prince-Lee-PathAI/HCF-MIL
+git clone https://github.com/Baron-Huang/PacMIL
 ```
 
 2. Install dependencies
@@ -47,27 +47,27 @@ pip install -r requirements.txt
 
 3. Training on Swin Transformer-S Backbone
 ```sh
-sh run_swinT.sh
+sh PacMIL_CSCC.sh or PacMIL_LSCC.sh
 Modify: --abla_type sota --run_mode train --random_seed ${seed}
 ```
 
 4. Evaluation
 ```sh
-sh run_swinT.sh
+sh PacMIL_CSCC.sh or PacMIL_LSCC.sh
 Modify: --abla_type sota --run_mode test --random_seed ${seed}
 ```
 
 5. Extract features for plots
 ```sh
-sh run_swinT.sh
+sh PacMIL_CSCC.sh or PacMIL_LSCC.sh
 Modify: --abla_type sota --run_mode test --random_seed ${seed} --feat_extract
 ```
 
 6. Interpretability plots
 ```sh
-sh run_swinT.sh
+sh PacMIL_CSCC.sh or PacMIL_LSCC.sh
 Modify: --abla_type sota --run_mode test --random_seed ${seed} --bag_weight
 ```
 
 ## :postbox: Contact
-If you have any questions, please contact [Chentao Li](https://prince-lee-pathai.github.io/) (`cl4691@columbia.edu`).
+If you have any questions, please contact [Dr.Pan Huang](https://scholar.google.com/citations?user=V_7bX4QAAAAJ&hl=zh-CN) (`mrhuangpan@163.com or pan.huang@polyu.edu.hk`).
