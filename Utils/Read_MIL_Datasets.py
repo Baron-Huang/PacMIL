@@ -1,7 +1,7 @@
 ############################# reading Multiple instance learing datasets for tensor training ##############################
-#### Author: Dr.Pan Huang
-#### Email: panhuang@cqu.edu.cn
-#### Department: COE, Chongqing University
+#### Author: Dr. Pan Huang
+#### Email: mrhuangpan@163.com or pan.huang@polyu.edu.hk
+#### Department: PolyU, HK
 #### Attempt: read MIL file datasets (including instances and bags).
 
 ########################## API Section #########################
@@ -100,3 +100,4 @@ if __name__ == '__main__':
     plt.show()
 
     pass
+
