@@ -10,7 +10,7 @@
 
 Here's an overview of our **Hierarchical Cluster-incorporated Aware Filtering (HCF-MIL)** method:
 
-![Figure 1](./images/main.jpg)
+![Figure 1](https://github.com/Baron-Huang/PacMIL/blob/main/Image/Main_Frame_for_PacMIL.png)
 
 
 
