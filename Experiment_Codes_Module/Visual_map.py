@@ -1,3 +1,7 @@
+#### Author: Dr. Pan Huang
+#### Email: mrhuangpan@163.com or pan.huang@polyu.edu.hk
+#### Department: PolyU, HK
+
 import numpy as np
 import cv2
 from termcolor import colored
