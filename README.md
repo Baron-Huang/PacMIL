@@ -6,6 +6,8 @@
 ## :fire: News
 
 - [2025/09/30] Our manuscript was currently Accept with Minor Revision in _Medical Image Analysis (IF 11.8)_.
+- [2025/05/27] Our manuscript was Major Revision in _Medical Image Analysis (IF 11.8)_.
+- [2024/12/15] Our manuscript was submitted to _Medical Image Analysis (IF 11.8)_.
 
 
 
