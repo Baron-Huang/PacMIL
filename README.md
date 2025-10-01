@@ -5,7 +5,7 @@
 
 ## :fire: News
 
-- [2025/09/30] Our manuscript was currently Accept with Minor Revision in _Medical Image Analysis (IF 11.2)_.
+- [2025/09/30] Our manuscript was currently Accept with Minor Revision in _Medical Image Analysis (IF 11.8)_.
 
 
 
@@ -13,7 +13,7 @@
 
 Here's an overview of our **Hierarchical Cluster-incorporated Aware Filtering (HCF-MIL)** method:
 
-![Figure 1](https://github.com/Baron-Huang/PacMIL/blob/main/Image/Main_Frame_for_PacMIL.png)
+![Figure 1][800, 400](https://github.com/Baron-Huang/PacMIL/blob/main/Image/Main_Frame_for_PacMIL.png)
 
 
 
