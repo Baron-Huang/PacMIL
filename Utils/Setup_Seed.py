@@ -1,3 +1,6 @@
+#### Author: Dr. Pan Huang
+#### Email: mrhuangpan@163.com or pan.huang@polyu.edu.hk
+#### Department: PolyU, HK
 import torch
 import numpy as np
 import random
@@ -9,4 +12,5 @@ def setup_seed(seed):
     np.random.seed(seed)
     random.seed(seed)
     torch.backends.cudnn.benchmark = False
+
     torch.backends.cudnn.deterministic = True
