@@ -47,25 +47,25 @@ pip install -r requirements.txt
 
 3. Training on Swin Transformer-S Backbone
 ```sh
-sh PacMIL_CSCC.sh or PacMIL_LSCC.sh
+sh PacMIL_CH_CSCC.sh or PacMIL_CH_LSCC.sh
 Modify: --abla_type sota --run_mode train --random_seed ${seed}
 ```
 
 4. Evaluation
 ```sh
-sh PacMIL_CSCC.sh or PacMIL_LSCC.sh
+sh PacMIL_CH_CSCC.sh or PacMIL_CH_LSCC.sh
 Modify: --abla_type sota --run_mode test --random_seed ${seed}
 ```
 
 5. Extract features for plots
 ```sh
-sh PacMIL_CSCC.sh or PacMIL_LSCC.sh
+sh PacMIL_CH_CSCC.sh or PacMIL_CH_LSCC.sh
 Modify: --abla_type sota --run_mode test --random_seed ${seed} --feat_extract
 ```
 
 6. Interpretability plots
 ```sh
-sh PacMIL_CSCC.sh or PacMIL_LSCC.sh
+sh PacMIL_CH_CSCC.sh or PacMIL_CH_LSCC.sh
 Modify: --abla_type sota --run_mode test --random_seed ${seed} --bag_weight
 ```
 
