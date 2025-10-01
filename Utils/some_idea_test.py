@@ -1,3 +1,7 @@
+#### Author: Dr. Pan Huang
+#### Email: mrhuangpan@163.com or pan.huang@polyu.edu.hk
+#### Department: PolyU, HK
+
 import  shutil
 import numpy as np
 import os
@@ -35,6 +39,7 @@ if __name__ == '__main__':
 
     for i in test_save_list:
         shutil.copy(source_path + class_num + r'\\' + i, tar_path + 'Test' + r'\\' + class_num + r'\\' + i)
+
 
 
     print()
