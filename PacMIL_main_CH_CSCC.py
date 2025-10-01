@@ -1,7 +1,7 @@
 ############################# PacMIL_Demo ##############################
-#### Author: Mingrui Ma, PhD Student
-#### Email: xxx
-#### Department: XJU
+#### Author: Dr. Pan Huang
+#### Email: mrhuangpan@163.com or pan.huang@polyu.edu.hk
+#### Department: PolyU, HK
 #### Attempt: Testing PacMIL model
 #### PacMIL: An End-to-end Multi-instance Learning Network via Prior-instance Adversarial Contrastive for Cervix Pathology Grading
 
@@ -202,6 +202,7 @@ if __name__ == '__main__':
                         img_path=dir_path + r'\\' + img_path_list[i],
                         save_path=save_path + r'\\' + img_path_list[i],
                         start_no=171+167, current_no=i, show_size=(768, 768))
+
 
 
 
