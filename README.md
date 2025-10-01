@@ -1,4 +1,4 @@
-# An End-to-end Knowledge-driven Multi-instance Learning Network with Hierarchical Cluster-incorporated Aware Filtering for Larynx Pathological Grading 
+# A Multi-instance Learning Network with Prototype-instance Adversarial Contrastive for Cervix Pathology Grading
 
 ## :fire: News
 
