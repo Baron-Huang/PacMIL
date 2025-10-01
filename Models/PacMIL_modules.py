@@ -1,8 +1,6 @@
-############################# pacViT_modules ##############################
-#### Author: Pan Huang, PhD student
-#### Email: panhuang@cqu.edu.cn
-#### Department: CQU-NTU(CSC Funding)
-#### Attempt: creating pacViT model by loading pretrained weight for searching the best learning rate
+#### Author: Dr. Pan Huang
+#### Email: mrhuangpan@163.com or pan.huang@polyu.edu.hk
+#### Department: PolyU, HK
 
 ########################## API Section #########################
 from Models.SwinT_models.models.swin_transformer import SwinTransformer
@@ -311,6 +309,7 @@ class PacMIL_Parallel_Head(nn.Module):
 if __name__ == '__main__':
     new_model = AdversarialLoss()
     print(new_model)
+
 
 
 
