@@ -34,6 +34,11 @@ Here's an overview of our **Multi-instance Learning Network with Prototype-insta
 ## 🛠️ Getting Started
 
 To get started with NCFM, follow the installation instructions below.
+1. Random seed fixed
+
+```
+The random seed is fixed to 1 for all models.
+```
 
 1.  Clone the repo
 
