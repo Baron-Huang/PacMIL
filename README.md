@@ -33,44 +33,44 @@ Here's an overview of our **Multi-instance Learning Network with Prototype-insta
 
 ## 🛠️ Getting Started
 
-To get started with NCFM, follow the installation instructions below.
+To get started with PacMIL, follow the installation instructions below.
 1. Random seed fixed
 
 ```
 The random seed is fixed to 1 for all models.
 ```
 
-1.  Clone the repo
+2.  Clone the repo
 
 ```sh
 git clone https://github.com/Baron-Huang/PacMIL
 ```
 
-2. Install dependencies
+3. Install dependencies
    
 ```sh
 pip install -r requirements.txt
 ```
 
-3. Training on Swin Transformer-S Backbone
+4. Training on Swin Transformer-S Backbone
 ```sh
 sh PacMIL_CH_CSCC.sh or PacMIL_CH_LSCC.sh
 Modify: --abla_type sota --run_mode train --random_seed ${seed}
 ```
 
-4. Evaluation
+5. Evaluation
 ```sh
 sh PacMIL_CH_CSCC.sh or PacMIL_CH_LSCC.sh
 Modify: --abla_type sota --run_mode test --random_seed ${seed}
 ```
 
-5. Extract features for plots
+6. Extract features for plots
 ```sh
 sh PacMIL_CH_CSCC.sh or PacMIL_CH_LSCC.sh
 Modify: --abla_type sota --run_mode test --random_seed ${seed} --feat_extract
 ```
 
-6. Interpretability plots
+7. Interpretability plots
 ```sh
 sh PacMIL_CH_CSCC.sh or PacMIL_CH_LSCC.sh
 Modify: --abla_type sota --run_mode test --random_seed ${seed} --bag_weight
