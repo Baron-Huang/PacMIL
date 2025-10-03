@@ -419,7 +419,7 @@ def Single_out_fit(mil_net=None, train_loader=None, val_loader=None, test_loader
                     pre_y = torch.cat((pre_y, mil_pre_y))
             pre_y = pre_y[1:]
 
-            loss_value = loss_fn(pre_y, img_label) - adv_loss_sum
+            loss_value = loss_fn(pre_y, img_label) + adv_loss_sum
 
             loss_value.backward()
             rmp_optim.step()
@@ -751,6 +751,7 @@ if __name__ == '__main__':
             change_log += 1
         lr = (max_lr / (10 ** (change_log - 1))) - (k - (change_log - 1) * 10) * (max_lr / (10 ** change_log))
         print(lr)
+
 
 
 
