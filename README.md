@@ -4,7 +4,7 @@
 - Mingrui Ma, Furong Luo, Binlin Ma, Shuxian Liu, Xiaoyi Lv, Pan Huang*
 
 ## :fire: News
-- [2025/11/18] Our manuscript available online, you could click [it](https://www.sciencedirect.com/science/article/pii/S1361841525004268).
+- [2025/11/18] Our manuscript is available online, you could click [it](https://www.sciencedirect.com/science/article/pii/S1361841525004268).
 - [2025/11/15] Our manuscript was Accepted by _Medical Image Analysis (IF 11.8)_.
 - [2025/09/30] Our manuscript was currently "Accept with Minor Revision" in _Medical Image Analysis (IF 11.8)_.
 - [2025/05/27] Our manuscript was "Major Revision" in _Medical Image Analysis (IF 11.8)_.
