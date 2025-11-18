@@ -4,7 +4,7 @@
 - Mingrui Ma, Furong Luo, Binlin Ma, Shuxian Liu, Xiaoyi Lv, Pan Huang*
 
 ## :fire: News
-- [2025/11/18] Our manuscript is available online at _Medical Image Analysis (IF 11.8)_, you could click [it](https://www.sciencedirect.com/science/article/pii/S1361841525004268).
+- [2025/11/18] Our manuscript was available online at _Medical Image Analysis (IF 11.8)_, you could click [it](https://www.sciencedirect.com/science/article/pii/S1361841525004268).
 - [2025/11/15] Our manuscript was Accepted by _Medical Image Analysis (IF 11.8)_.
 - [2025/09/30] Our manuscript was currently "Accept with Minor Revision" in _Medical Image Analysis (IF 11.8)_.
 - [2025/05/27] Our manuscript was "Major Revision" in _Medical Image Analysis (IF 11.8)_.
@@ -78,4 +78,4 @@ Modify: --abla_type sota --run_mode test --random_seed ${seed} --bag_weight
 ```
 
 ## :postbox: Contact
-If you have any questions, please contact [Dr. Pan Huang](https://scholar.google.com/citations?user=V_7bX4QAAAAJ&hl=zh-CN) (`mrhuangpan@163.com or kevin.huang@polyu.edu.hk`).
+If you have any questions, please contact [Dr. Pan Huang](https://scholar.google.com/citations?user=V_7bX4QAAAAJ&hl=zh-CN) (`mrhuangpan@163.com or panhuang@polyu.edu.hk`).
