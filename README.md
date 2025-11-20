@@ -1,7 +1,7 @@
 # A Multi-instance Learning Network with Prototype-instance Adversarial Contrastive for Cervix Pathology Grading
 
 ## 🧔 Authors [*corresponding author]
-- Mingrui Ma, Furong Luo, Binlin Ma, Shuxian Liu, Xiaoyi Lv*, Pan Huang*
+- Mingrui Ma, Furong Luo, Binlin Ma, Shuxian Liu, Xiaoyi Lv, Pan Huang*
 
 ## :fire: News
 - [2025/11/18] Our manuscript was available online at _Medical Image Analysis (IF 11.8)_, you could click [it](https://www.sciencedirect.com/science/article/pii/S1361841525004268).
